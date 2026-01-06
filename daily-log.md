@@ -5,3 +5,4 @@
 - Jan 03: Added array/contains-duplicate.py
 - Jan 04: Added array/152. Maximum Product Subarray.py
 - Jan 05: Added array/best-time-to-buy-and-sell-stock.py
+- Jan 06: Added array/53. Maximum Subarray.py
