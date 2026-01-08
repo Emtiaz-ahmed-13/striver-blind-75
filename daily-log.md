@@ -7,3 +7,4 @@
 - Jan 05: Added array/best-time-to-buy-and-sell-stock.py
 - Jan 06: Added array/53. Maximum Subarray.py
 - Jan 07: Added array/two Sum.py
+- Jan 08: Added Binary/371. Sum of Two Integers.py
