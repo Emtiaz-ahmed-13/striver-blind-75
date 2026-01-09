@@ -8,3 +8,4 @@
 - Jan 06: Added array/53. Maximum Subarray.py
 - Jan 07: Added array/two Sum.py
 - Jan 08: Added Binary/371. Sum of Two Integers.py
+- Jan 09: Added Binary/338. Counting Bits.py
