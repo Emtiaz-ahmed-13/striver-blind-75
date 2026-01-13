@@ -12,3 +12,4 @@
 - Jan 10: Added Binary/191. Number of 1 Bits.py
 - Jan 11: Added LinkedList/Merge Two Sorted Lists.py
 - Jan 12: Added LinkedList/Linked List Cycle.py
+- Jan 13: Added LinkedList/Reverse Linked List.py
