@@ -15,3 +15,4 @@
 - Jan 13: Added LinkedList/Reverse Linked List.py
 - Jan 14: Daily practice (Striver Blind 75)
 - Jan 15: Daily practice (Striver Blind 75)
+- Jan 16: Daily practice (Striver Blind 75)
