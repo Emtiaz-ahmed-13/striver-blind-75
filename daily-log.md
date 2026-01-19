@@ -18,3 +18,4 @@
 - Jan 16: Daily practice (Striver Blind 75)
 - Jan 17: Daily practice (Striver Blind 75)
 - Jan 18: Daily practice (Striver Blind 75)
+- Jan 19: Daily practice (Striver Blind 75)
