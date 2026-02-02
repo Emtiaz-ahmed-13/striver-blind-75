@@ -31,3 +31,5 @@
 - Jan 29: Daily practice (Striver Blind 75)
 - Jan 30: Daily practice (Striver Blind 75)
 - Jan 31: Daily practice (Striver Blind 75)
+
+# Daily Submissions - February 2026
