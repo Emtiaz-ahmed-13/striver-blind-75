@@ -74,3 +74,4 @@
 - Mar 22: Daily practice (Striver Blind 75)
 - Mar 23: Daily practice (Striver Blind 75)
 - Mar 24: Daily practice (Striver Blind 75)
+- Mar 25: Daily practice (Striver Blind 75)
