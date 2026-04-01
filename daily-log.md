@@ -81,3 +81,6 @@
 - Mar 29: Daily practice (Striver Blind 75)
 - Mar 30: Daily practice (Striver Blind 75)
 - Mar 31: Daily practice (Striver Blind 75)
+
+# Daily Submissions - April 2026
+- Apr 01: Daily practice (Striver Blind 75)
