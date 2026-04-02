@@ -84,3 +84,4 @@
 
 # Daily Submissions - April 2026
 - Apr 01: Daily practice (Striver Blind 75)
+- Apr 02: Daily practice (Striver Blind 75)
