@@ -115,3 +115,4 @@
 - Apr 30: Daily practice (Striver Blind 75)
 - Apr 30: Daily practice (Striver Blind 75)
 - May 01: Solved Tree/226. Invert Binary Tree.py
+- May 02: Solved Tree/100. Same Tree.py
