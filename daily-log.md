@@ -117,3 +117,4 @@
 - May 01: Solved Tree/226. Invert Binary Tree.py
 - May 02: Solved Tree/100. Same Tree.py
 - May 03: Solved Tree/572. Subtree of Another Tree.py
+- May 04: Solved Tree/98. Validate Binary Search Tree.py
