@@ -120,3 +120,4 @@
 - May 04: Solved Tree/98. Validate Binary Search Tree.py
 - May 05: Solved Tree/230. Kth Smallest Element in a BST.py
 - May 06: Solved Tree/102. Binary Tree Level Order Traversal.py
+- May 07: Solved Tree/106. Construct Binary Tree from Inorder and Postorder Traversal.py
