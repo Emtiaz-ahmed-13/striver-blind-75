@@ -123,3 +123,4 @@
 - May 07: Solved Tree/106. Construct Binary Tree from Inorder and Postorder Traversal.py
 - May 08: Solved Tree/297. Serialize and Deserialize Binary Tree.py
 - May 09: Solved Tree/124. Binary Tree Maximum Path Sum.py
+- May 10: Daily practice (Striver Blind 75)
