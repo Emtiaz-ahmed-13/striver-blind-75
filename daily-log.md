@@ -125,3 +125,4 @@
 - May 09: Solved Tree/124. Binary Tree Maximum Path Sum.py
 - May 10: Daily practice (Striver Blind 75)
 - May 11: Daily practice (Striver Blind 75)
+- May 12: Daily practice (Striver Blind 75)
