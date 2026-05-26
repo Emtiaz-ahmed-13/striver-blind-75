@@ -139,3 +139,4 @@
 - May 23: Daily practice (Striver Blind 75)
 - May 24: Daily practice (Striver Blind 75)
 - May 25: Daily practice (Striver Blind 75)
+- May 26: Daily practice (Striver Blind 75)
