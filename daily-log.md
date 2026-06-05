@@ -152,3 +152,4 @@
 - Jun 02: Solved dp/198. House Robber.py
 - Jun 03: Solved dp/518. Coin Change II.py
 - Jun 04: Solved dp/55. Jump Game.py
+- Jun 05: Solved dp/62. Unique Paths.py
