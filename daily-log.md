@@ -154,3 +154,4 @@
 - Jun 04: Solved dp/55. Jump Game.py
 - Jun 05: Solved dp/62. Unique Paths.py
 - Jun 06: Solved dp/91. Decode Ways.py
+- Jun 07: Daily practice (Striver Blind 75)
