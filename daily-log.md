@@ -155,3 +155,4 @@
 - Jun 05: Solved dp/62. Unique Paths.py
 - Jun 06: Solved dp/91. Decode Ways.py
 - Jun 07: Daily practice (Striver Blind 75)
+- Jun 08: Daily practice (Striver Blind 75)
