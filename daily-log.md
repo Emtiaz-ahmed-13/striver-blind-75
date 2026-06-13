@@ -160,3 +160,4 @@
 - Jun 10: Daily practice (Striver Blind 75)
 - Jun 11: Daily practice (Striver Blind 75)
 - Jun 12: Daily practice (Striver Blind 75)
+- Jun 13: Daily practice (Striver Blind 75)
