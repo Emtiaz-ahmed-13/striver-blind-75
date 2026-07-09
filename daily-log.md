@@ -178,3 +178,5 @@
 - Jun 28: Daily practice (Striver Blind 75)
 - Jun 29: Daily practice (Striver Blind 75)
 - Jun 30: Daily practice (Striver Blind 75)
+# Daily Submissions - July 2026
+- Jul 09: Solved Interval/57. Insert Interval.py
