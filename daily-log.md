@@ -184,3 +184,4 @@
 - Jul 11: Solved Interval/435. Non-overlapping Intervals.py
 - Jul 12: Daily practice (Striver Blind 75)
 - Jul 13: Daily practice (Striver Blind 75)
+- Jul 14: Daily practice (Striver Blind 75)
