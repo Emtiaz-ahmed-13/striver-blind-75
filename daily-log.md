@@ -198,3 +198,4 @@
 - Jul 25: Daily practice (Striver Blind 75)
 - Jul 26: Daily practice (Striver Blind 75)
 - Jul 27: Daily practice (Striver Blind 75)
+- Jul 28: Daily practice (Striver Blind 75)
