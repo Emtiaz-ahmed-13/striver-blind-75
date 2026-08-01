@@ -202,3 +202,5 @@
 - Jul 29: Daily practice (Striver Blind 75)
 - Jul 30: Daily practice (Striver Blind 75)
 - Jul 31: Solved Graph/133. Clone Graph.py
+# Daily Submissions - August 2026
+- Aug 01: Solved Graph/200. Number of Islands.py
