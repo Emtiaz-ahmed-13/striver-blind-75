@@ -204,3 +204,4 @@
 - Jul 31: Solved Graph/133. Clone Graph.py
 # Daily Submissions - August 2026
 - Aug 01: Solved Graph/200. Number of Islands.py
+- Aug 02: Solved Graph/207. Course Schedule.py
