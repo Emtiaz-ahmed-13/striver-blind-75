@@ -207,3 +207,4 @@
 - Aug 02: Solved Graph/207. Course Schedule.py
 - Aug 03: Solved Graph/417. Pacific Atlantic Water Flow.py
 - Aug 04: Solved Graph/128. Longest Consecutive Sequence.py
+- Aug 05: Daily practice (Striver Blind 75)
