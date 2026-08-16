@@ -218,3 +218,4 @@
 - Aug 13: Daily practice (Striver Blind 75)
 - Aug 14: Daily practice (Striver Blind 75)
 - Aug 15: Daily practice (Striver Blind 75)
+- Aug 16: Daily practice (Striver Blind 75)
